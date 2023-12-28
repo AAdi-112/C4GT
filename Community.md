@@ -326,3 +326,26 @@
     <td>indian institute of information technology , nagpur</td>
   </tr>
 </table>
+
+
+
+
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Aadrit Sharan</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/AAdi-112</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/aadrit-sharan-544b78268/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute Of Information Technology, Sonepat</td>
+  </tr>
+</table>
