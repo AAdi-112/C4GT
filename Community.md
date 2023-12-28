@@ -56,3 +56,21 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Aadrit Sharan</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://https://github.com/AAdi-112</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https:https://www.linkedin.com/in/aadrit-sharan-544b78268/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIIT Sonepat</td>
+  </tr>
+</table>
